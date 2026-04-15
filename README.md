@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://guns.lol/vladisofficial"><img src="vladislogo.jpg" alt="Vladis logo" width="60%"></a>
+  <a href="https://guns.lol/vladisofficial"><img src="vladislogo.jpg" alt="Vladis logo" width="80%"></a>
 </p>
   
 I'm Vladis. You can find more information below. I'm not doing anything special. The [project](https://funwiki.gitbook.io/funshield) where you can find me
